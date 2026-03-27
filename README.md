@@ -12,8 +12,8 @@
 
 <img src="https://github.com/user-attachments/assets/2eb000ca-20bf-40cd-8fb7-18ca414b2663" width="130" alt="허영진 프로필"/>
 
-### 허영진 · YoungJin Huh
-希望我所热爱的事，也能成为他人的幸福。
+### 许永镇 · YoungJin Huh
+希望我热爱的事情，也能为他人带来幸福。
 
 **AI | 嵌入式 | 自动化**
 
@@ -21,8 +21,7 @@
 
 [<img width="320" alt="naver_cafe_banner" src="https://github.com/user-attachments/assets/c803d8b1-6a3b-40f9-a607-c8882430cdd3">](https://cafe.naver.com/underfusion)
 
-点击上方横幅即可跳转至Naver咖啡馆。（提问 & 作业 等）
-
+点击上方横幅即可进入Naver Cafe（提问 & 作业等）
 
 </div>
 
@@ -30,23 +29,23 @@
 
 ## 🎓 学历
 
-**国立釜庆大学 · 智能机器人工程 硕士**
+**韩国国立釜庆大学 · 智能机器人硕士**
 
-基于AI Vision的瞌睡识别与目标检测系统研究
+基于AI Vision的疲劳检测与目标识别系统研究
 
 ---
 
-## 🏅 持有资格证（自动化相关）
+## 🏅 持有证书（自动化相关）
 
-**电气技能长 · 信息处理工程师 · 3D打印机运用技能士**
+**电气功能长 · 信息处理工程师 · 3D打印机操作技师**
 
 ---
 
 ## 💼 活动领域
 
-**现) 工科大学高级技术课程 兼任讲师（基础编程C#课程）/ 梁山职业学校 C/C++·Arduino 讲师**
+**现）韩国理工大学高新技术课程 外聘讲师（C#基础编程） / 梁山职业学校 C/C++与Arduino讲师**
 
-**现) 韩中技术口译**
+**现）中韩技术翻译**
 
 ---
 
@@ -56,7 +55,7 @@
 <tr>
 <td align="center" valign="top" width="33%">
 
-**🤖 AI Vision**
+**🤖 AI视觉**
 
 ![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=flat-square)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
@@ -74,7 +73,7 @@
 </td>
 <td align="center" valign="top" width="33%">
 
-**⚙️ 控制 & 嵌入式**
+**⚙️ 控制与嵌入式**
 
 ![PLC](https://img.shields.io/badge/PLC_控制-FF6B35?style=flat-square)
 ![AVR](https://img.shields.io/badge/AVR-333333?style=flat-square)
@@ -109,39 +108,39 @@
 
 ---
 
-## 📌 课程简介
+## 📌 课程信息
 
 | 项目 | 内容 |
 |:----:|:----:|
 | 课程 | 编程基础 |
 | 科目 | 基础编程（C#） |
-| 对象 | 人工智能软件学科 |
-| 目标 | 以 语法 → 实践 → 问题解决 方式夯实基础 |
+| 对象 | 人工智能软件专业 |
+| 目标 | 通过语法 → 实践 → 问题解决方式打下基础能力 |
 
 ---
 
 ## 🎯 教学目标
 
-- 理解C#基本语法、数据类型、控制语句、数组等，能够编写基于控制台的程序。
-- 理解方法与类结构，运用面向对象概念进行程序设计与实现。
-- 利用Windows Forms实现基于事件驱动的GUI程序，并完成综合项目。
+- 掌握C#基础语法、数据类型、控制语句与数组，并能够编写控制台程序  
+- 理解方法与类结构，运用面向对象思想进行程序设计与实现  
+- 利用Windows Forms开发基于事件的GUI程序，并完成综合项目  
 
 ---
 
-## 🗓️ 各周学习内容
+## 🗓️ 周次学习内容
 
-| 周次 | 讲课及实践内容 | 核心关键词 |
+| 周次 | 教学与实训内容 | 关键词 |
 |:----:|:----------------|:----:|
-| 第1周 | C# 开发环境搭建及基本结构理解 | Visual Studio, .NET, Hello World |
-| 第2周 | 变量、数据类型、运算符实践 | int, string, bool, var |
-| 第3周 | 输入输出处理及类型转换实践 | Console.WriteLine, Convert, 强制转换 |
-| 第4周 | 条件语句与循环语句控制 | if, switch, for, while |
-| 第5周 | 数组与字符串处理 | Array, string 方法 |
-| 第6周 | 方法的定义与调用 | 定义, 参数, 返回值, 重载 |
-| 第7周 | 类与面向对象概念理解 | OOP, 构造函数, 访问修饰符 |
-| 第8周 | 继承、接口及集合的运用 | inheritance, interface, List, Dictionary |
-| 第9周 | Windows Forms 基础及事件处理 | Form, Button, TextBox, EventHandler |
-| 第10周 | 基于GUI的综合项目实现 | 迷你项目 |
+| 第1周 | C#开发环境搭建与基础结构理解 | Visual Studio, .NET, Hello World |
+| 第2周 | 变量、数据类型与运算符 | int, string, bool, var |
+| 第3周 | 输入输出与类型转换 | Console.WriteLine, Convert, 类型转换 |
+| 第4周 | 条件与循环控制 | if, switch, for, while |
+| 第5周 | 数组与字符串处理 | Array, string方法 |
+| 第6周 | 方法定义与调用 | 参数, 返回值, 重载 |
+| 第7周 | 类与面向对象基础 | OOP, 构造函数, 访问修饰符 |
+| 第8周 | 继承、接口与集合 | inheritance, interface, List, Dictionary |
+| 第9周 | Windows Forms基础与事件处理 | Form, Button, TextBox, EventHandler |
+| 第10周 | GUI综合项目开发 | 小型项目 |
 
 ---
 
@@ -149,40 +148,40 @@
 
 ---
 
-## 📚 第一学期 — 打好基础
+## 📚 第一学期 — 打牢基础
 
-> 不是死记语法，而是**亲手动手做**的经验才能变成真正的实力。
+> 学习不仅是记忆语法，而是通过**亲自实践**来提升能力。
 
-- 完成C#基础语法 — 变量、条件语句、循环语句、类、GUI
-- **完成迷你项目** — 计算器、成绩管理、简单游戏等
-- 即使是小项目，**坚持做到完成**才是关键
-- **挑战资格证** — 逐步验证自己的实力
-- 技能士 · 产业技师 · 工程师
-
----
-
-## 🚀 第二学期 — 准备就业作品集
-
-> 在第一学期积累的基础上，加入**AI · 嵌入式 · Web**技术，完成实战项目。
-
-- AI Vision — Python, OpenCV, YOLO, MediaPipe
-- 嵌入式 — AVR, IoT
-- Web / 仪表盘 — Flask, FastAPI, React, Blazor
-- **作品集项目** — 以就业为目标的实战项目制作
-- 就业准备 — 撰写自我介绍 · 技术面试备考
+- 完成C#基础语法学习 — 变量、条件、循环、类、GUI  
+- 完成**小型项目** — 计算器、成绩管理、简单游戏等  
+- 重点在于**从开始到完成一个项目的能力**  
+- **考取证书** — 分阶段验证能力  
+- 技能等级证 / 技师证 / 工程师证  
 
 ---
 
-## 🐙 平时学习整理到 GitHub 或咖啡馆
+## 🚀 第二学期 — 就业导向项目
 
-> 持续积累的提交记录，就是**证明我成长的作品集**。
+> 在第一学期基础上，融合**AI · 嵌入式 · Web技术**，完成实战项目。
 
-- 将课堂实践代码、迷你项目持续提交（commit）
-- 养成撰写README的习惯 — 能说清楚才是真正懂了
-- 求职时，一个GitHub链接可能比简历更有说服力
+- AI Vision — Python, OpenCV, YOLO, MediaPipe  
+- 嵌入式 — AVR, IoT  
+- Web / 仪表盘 — Flask, FastAPI, React, Blazor  
+- **项目作品集** — 面向就业的实战项目  
+- 就业准备 — 简历编写 · 技术面试  
 
 ---
 
-> **希望这门课程成为你迈出的第一步。** 🎯
+## 🐙 日常学习建议（GitHub / 社区）
+
+> 持续积累的代码记录，就是**你成长的证明**。
+
+- 将课堂代码与项目持续上传至GitHub  
+- 养成编写README的习惯 — 能解释才算真正掌握  
+- 求职时，一个GitHub链接往往比简历更有说服力  
+
+---
+
+> **希望本课程成为你迈向技术成长的起点。** 🎯
 
 </div>
